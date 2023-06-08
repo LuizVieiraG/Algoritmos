@@ -16,6 +16,7 @@ b)	Calcule e exiba:
 "	A porcentagem de alunos reprovados por faltas.*/
 
 void main(){
-	
+	int nota_maior = 0, nota_menor = 0, i;
+	float media, nota, 
 }
 
